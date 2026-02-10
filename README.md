@@ -5,4 +5,4 @@ Engzly is a graduation project developed as part of the Digital Egypt Pioneers I
 https://docs.google.com/document/d/1NA86FzxK8Pvwh0KFmTvJvWTJfG5lKp74/edit?usp=drive_link&ouid=105403739743321140010&rtpof=true&sd=true
 
 # Graduation Project Tasks:
-https://docs.google.com/spreadsheets/d/1smzaZcBHFAwt3sZolq258xD5k94RJSOrZUYDLqEda9M/edit?usp=sharing
+https://drive.google.com/file/d/1Q2KoVOsxpUPOTPFsQ5P3BUKEFit3AexX/view?usp=sharing
