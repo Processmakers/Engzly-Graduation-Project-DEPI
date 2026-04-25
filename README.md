@@ -14,3 +14,5 @@ https://drive.google.com/file/d/1JH5g8C-eHS2la4ooyRk4SgaU38QpZNp8/view?usp=shari
 https://drive.google.com/file/d/1th0pQkof0EdfIRzTMy9EFXqoKLz4_avt/view?usp=sharing
 # Mid fidelity wireframes - English:
 https://drive.google.com/file/d/1tvrIUkfmlnPqdJN1srQH1UKVUn3gwhuy/view?usp=sharing
+# A/B Testing:
+https://drive.google.com/file/d/16wgg1QjVASA6zFmIeHrruB3eKY4bE-D_/view?usp=sharing
