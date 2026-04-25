@@ -8,3 +8,9 @@ https://drive.google.com/file/d/1Q2KoVOsxpUPOTPFsQ5P3BUKEFit3AexX/view?usp=shari
 https://drive.google.com/file/d/10yFTo3tL6i7D1xcaz82VE7_DnKzZx0pA/view?usp=sharing
 # Logo Suggestions:
 https://drive.google.com/file/d/130O_va2MrOMYo87UdZJgDpzx7N38a6op/view?usp=sharing
+# Low wireframe:
+https://drive.google.com/file/d/1JH5g8C-eHS2la4ooyRk4SgaU38QpZNp8/view?usp=sharing
+# Mid fidelity wireframes - Arabic:
+https://drive.google.com/file/d/1th0pQkof0EdfIRzTMy9EFXqoKLz4_avt/view?usp=sharing
+# Mid fidelity wireframes - English:
+https://drive.google.com/file/d/1tvrIUkfmlnPqdJN1srQH1UKVUn3gwhuy/view?usp=sharing
