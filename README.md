@@ -8,3 +8,5 @@ https://www.figma.com/design/M2utrg8IJuqQuwhVIqgil5/GP_Engzly?t=dIhq2syHUiVnFjTL
 https://drive.google.com/file/d/18oYOeygynr1nJXwAdRgmtbVlNzebnrTV/view?usp=sharing
 # Presentation video:
 https://drive.google.com/file/d/1dM0fNNB0Eo3c9pRqUqb2lm7EPnYRzxRD/view?usp=sharing
+# Project prototyping video:
+https://drive.google.com/file/d/12Uc8LNaQQSYSrW-R48B7jp6uklsCh2nE/view?usp=sharing
